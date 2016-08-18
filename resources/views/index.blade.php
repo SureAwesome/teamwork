@@ -27,8 +27,8 @@
 
     <div>
         <p>团队使用 Wiz 作为团队文档库工具</p>
-        <p class="text-info">网页版地址：<a href="https://note.wiz.cn/login" target="_blank">https://note.wiz.cn/login</a></p> 
-        <p class="text-info">桌面版下载地址：<a href="http://www.wiz.cn/download.html" target="_blank">http://www.wiz.cn/download.html</a></p>  
+        <p class="text-info">网页版地址：<a href="https://note.wiz.cn/login" target="_blank">https://note.wiz.cn/login</a></p>
+        <p class="text-info">桌面版下载地址：<a href="http://www.wiz.cn/download.html" target="_blank">http://www.wiz.cn/download.html</a></p>
         <p class="text-info">团队公共账号： <span class="label label-primary">wiz@datartisan.com</span> </p>
         <p class="text-info">密码： <span class="label label-primary">da@wiz</span> </p>
     </div>
@@ -69,6 +69,7 @@
         <li><a href="/preview/inspinia-2.4/index.html" target="_blank"> Inspinia 2.4 </a></li>
         <li><a href="/preview/inspinia-2.5/index.html" target="_blank"> Inspinia 2.5 </a></li>
         <li><a href="/preview/mvp-2.1/index.html" target="_blank"> MVP 2.1 </a></li>
+        <li><a href="/preview/business-1.3/index.html" target="_blank"> Business 1.3 </a></li>
     </ul>
 
     <hr>
