@@ -35,6 +35,7 @@
 
     <hr>
 
+    <!--
     <div class="page-header">
         <h2>持续集成 <small> 各项目持续集成构建状态</small></h2>
     </div>
@@ -55,19 +56,18 @@
     </ul>
 
     <hr>
+    -->
 
     <div class="page-header">
         <h2>Web UI 组件模板预览 <small> 浏览现有的成体系的 Web UI 组件</small></h2>
     </div>
 
     <ul class="nav nav-pills">
-        <li><a href="/preview/inspinia/index.html" target="_blank"> Web UI 01 </a></li>
-        <li><a href="/preview/neuboard/index.html" target="_blank"> Web UI 02 </a></li>
-        <li><a href="/preview/velonic/index.html" target="_blank"> Web UI 03 </a></li>
-        <li><a href="/preview/mvp/templates/admin/index.html" target="_blank"> Web UI 04 </a></li>
+        <li><a href="/preview/neuboard/index.html" target="_blank"> Neuboard </a></li>
+        <li><a href="/preview/velonic/index.html" target="_blank"> Velonic </a></li>
         <li><a href="/preview/wolf-1.1/index.html" target="_blank"> Wolf 1.1 </a></li>
-        <li><a href="/preview/inspinia-2.4/index.html" target="_blank"> Inspinia 2.4 </a></li>
         <li><a href="/preview/inspinia-2.5/index.html" target="_blank"> Inspinia 2.5 </a></li>
+        <li><a href="/preview/inspinia-2.6/index.html" target="_blank"> Inspinia 2.6 </a></li>
         <li><a href="/preview/mvp-2.1/index.html" target="_blank"> MVP 2.1 </a></li>
         <li><a href="/preview/business-1.3/index.html" target="_blank"> Business 1.3 </a></li>
     </ul>
@@ -102,48 +102,42 @@
         </tr>
         <tr>
           <th scope="row">03</th>
-          <td>王绍锐</td>
-          <td>wangshaorui@datartisan.com</td>
-          <td>18659121374</td>
-        </tr>
-        <tr>
-          <th scope="row">04</th>
           <td>范新妍</td>
           <td>fanxinyan@datartisan.com</td>
           <td>13599509002</td>
         </tr>
         <tr>
-          <th scope="row">05</th>
+          <th scope="row">04</th>
           <td>蔡越</td>
           <td>caiyue@datartisan.com</td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row">06</th>
+          <th scope="row">05</th>
           <td>骆翔宇</td>
           <td>luoxiangyu@datartisan.com</td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row">07</th>
+          <th scope="row">06</th>
           <td>许斯敏</td>
           <td>xusimin@datartisan.com</td>
           <td>18850152076</td>
         </tr>
         <tr>
-          <th scope="row">08</th>
+          <th scope="row">07</th>
           <td>张耀</td>
           <td>zhangyao@datartisan.com</td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row">09</th>
+          <th scope="row">08</th>
           <td>李泽卿</td>
           <td>lizeqing@datartisan.com</td>
           <td>15659876850</td>
         </tr>
         <tr>
-          <th scope="row">10</th>
+          <th scope="row">09</th>
           <td>张昌冰</td>
           <td>zhangchangbing@datartisan.com</td>
           <td></td>
@@ -152,7 +146,6 @@
     </table>
 
     <hr>
-
 
     </div>
 </div>
