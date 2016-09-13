@@ -70,6 +70,7 @@
         <li><a href="/preview/inspinia-2.6/index.html" target="_blank"> Inspinia 2.6 </a></li>
         <li><a href="/preview/mvp-2.1/index.html" target="_blank"> MVP 2.1 </a></li>
         <li><a href="/preview/business-1.3/index.html" target="_blank"> Business 1.3 </a></li>
+        <li><a href="/preview/starto-1.3/index.html" target="_blank"> Starto 1.3 </a></li>
     </ul>
 
     <hr>
