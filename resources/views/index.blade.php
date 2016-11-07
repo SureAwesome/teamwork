@@ -27,8 +27,8 @@
 
     <div>
         <p>团队使用 Wiz 作为团队文档库工具</p>
-        <p class="text-info">网页版地址：<a href="https://note.wiz.cn/login" target="_blank">https://note.wiz.cn/login</a></p> 
-        <p class="text-info">桌面版下载地址：<a href="http://www.wiz.cn/download.html" target="_blank">http://www.wiz.cn/download.html</a></p>  
+        <p class="text-info">网页版地址：<a href="https://note.wiz.cn/login" target="_blank">https://note.wiz.cn/login</a></p>
+        <p class="text-info">桌面版下载地址：<a href="http://www.wiz.cn/download.html" target="_blank">http://www.wiz.cn/download.html</a></p>
         <p class="text-info">团队公共账号： <span class="label label-primary">wiz@datartisan.com</span> </p>
         <p class="text-info">密码： <span class="label label-primary">da@wiz</span> </p>
     </div>
@@ -167,6 +167,12 @@
             <td>厉彰文</td>
             <td>lizhangwen@datartisan.com</td>
             <td>18030129470</td>
+        </tr>
+        <tr>
+            <th scope="row">14</th>
+            <td>胡硕</td>
+            <td>hushuo@datartisan.com</td>
+            <td></td>
         </tr>
       </tbody>
     </table>
